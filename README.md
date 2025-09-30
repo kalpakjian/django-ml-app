@@ -1,16 +1,17 @@
-https://www.kdnuggets.com/building-machine-learning-application-with-django
+# Building Machine Learning Application with Django
 
-Building Machine Learning Application with Django
+這篇教學詳細介紹了如何使用 Django 建立機器學習應用程式，包括從模型訓練到建立網頁表單與 API。
 
-The file attached contains a detailed tutorial on building a machine learning application with Django, from training a model to creating web forms and APIs. It covers:
-	•	Project setup including installing Django and necessary libraries
-	•	Training a Random Forest classifier on the Iris dataset and saving the model
-	•	Configuring Django settings to use the app and templates
-	•	Adding URL routes for web and API endpoints
-	•	Creating a form for user input of Iris flower measurements
-	•	Loading the saved model and making predictions within Django services
-	•	Writing views to handle web form submissions and API requests
-	•	Building an HTML template for the user interface
-	•	Running the Django server and testing both the form and API
-	•	Implementing tests for homepage rendering and API prediction
-This tutorial provides an end-to-end example of serving a machine learning model via Django, useful for developers wanting to integrate ML models into web applications with user-friendly interfaces and APIs 
+內容涵蓋：
+- 專案設定，包括安裝 Django 與所需套件
+- 使用 Iris 資料集訓練隨機森林分類器並儲存模型
+- 配置 Django 設定以使用應用程式與模板
+- 新增網頁路由與 API 端點
+- 建立輸入表單讓使用者輸入鳶尾花特徵
+- 載入並使用已儲存模型於 Django 服務中進行預測
+- 撰寫 Views 處理網頁表單提交與 API 請求
+- 建置用戶互動介面的 HTML 模板
+- 執行 Django 伺服器並測試表單及 API
+- 實作測試案例以驗證首頁與 API 預測功能
+
+此教學提供一個完整的範例，展示如何透過 Django 服務機器學習模型，適合開發者將 ML 模型整合至 Web 應用與提供易用的介面及 API。
