@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 虛擬環境
+.venv/
+venv/
+
+# Django
+*.sqlite3
+db.sqlite3
+
+# 機器學習模型
+predictor/model/
+
+# 系統
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
