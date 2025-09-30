@@ -1,3 +1,5 @@
+https://www.kdnuggets.com/building-machine-learning-application-with-django
+
 # Building Machine Learning Application with Django
 
 這篇教學詳細介紹了如何使用 Django 建立機器學習應用程式，包括從模型訓練到建立網頁表單與 API。
